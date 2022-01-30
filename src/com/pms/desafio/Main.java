@@ -2,7 +2,6 @@ package com.pms.desafio;
 
 import java.time.LocalDate;
 
-import com.pms.desafio.model.Conteudo;
 import com.pms.desafio.model.Curso;
 import com.pms.desafio.model.Mentoria;
 
